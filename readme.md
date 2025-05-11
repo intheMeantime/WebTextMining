@@ -18,7 +18,7 @@ Constitutional Court Decision Analysis and Decision Category Classification Mode
 <img src="img/TopicModeling.png" width="500">
 
 ### Sementic Network
-<img src="img/SementicNetwork.png" width="500">
+<img src="img/SementicNetwork.png" width="700">
 
 ### Decision Category Classification Model
 각 모델의 Loss 및 Accuracy와 Confusion Matrix는 `img/results/` 에서 확인 가능
