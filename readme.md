@@ -16,12 +16,15 @@ Constitutional Court Decision Analysis and Decision Category Classification Mode
 
 ### Topic Modeling - Word Cloud
 <img src="img/TopicModeling.png" width="500">
+<br><br>
 
 ### Sementic Network
 <img src="img/SementicNetwork.png" width="700">
+<br><br>
 
 ### Decision Category Classification Model
 각 모델의 Loss 및 Accuracy와 Confusion Matrix는 `img/results/` 에서 확인 가능
+<br><br>
 
 ### Website
 ![website_overview](img/web_overview.png)
