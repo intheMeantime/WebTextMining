@@ -1,6 +1,5 @@
-# Constitutional Court Decision Analysis and Decision Category Classification Model
-헌법재판소 결정문 분석 및 결정문 카테고리 분류 모델
-
+# 헌법재판소 결정문 분석 및 결정문 카테고리 분류 모델
+Constitutional Court Decision Analysis and Decision Category Classification Model
 
 
 ## Introduction
@@ -19,8 +18,7 @@
 <img src="img/TopicModeling.png" width="500">
 
 ### Sementic Network
-<img src="img/Sementic_spring.png" width="350">
+<img src="img/SementicNetwork.png" width="500">
 
-<img src="img/Sementic_shell.png" width="350">
-
-각 모델의 Loss 및 Accuracy와 Confusion Matrix는 프로젝트의 `img/results/` 에서 확인할 수 있습니다.
+### Decision Category Classification Model
+각 모델의 Loss 및 Accuracy와 Confusion Matrix는 `img/results/` 에서 확인 가능
